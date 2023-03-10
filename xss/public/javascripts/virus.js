@@ -16,3 +16,5 @@ function start() {
 }
 
 document.addEventListener('load', start)
+
+document.write('VIRUS VIRUS VIRUS VIRUS VIRUS')
